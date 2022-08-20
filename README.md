@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhilnvsnemala
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning fullstack
+- 🌱 I’m currently learning fullstack developer
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me akhilnvsnemala@gmail.com OR 9553290193
 
