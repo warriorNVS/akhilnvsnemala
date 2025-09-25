@@ -12,7 +12,7 @@
 ## 🛠️ Skills & Technologies
 - **Languages**: PHP, JavaScript, TypeScript, Python  
 - **Frameworks**: Laravel, React, NestJS  
-- **Databases**: MySQL (5 & 8), MariaDB  
+- **Databases**: MySQL (5 & 8)  
 - **Tools**: Git, 
 - **Others**: REST APIs, OAuth 2.0, Stripe Integration, Agile Methodologies  
 
