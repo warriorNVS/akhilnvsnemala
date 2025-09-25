@@ -18,11 +18,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilnvsnemala&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/akhil-nagu-nvs/)  
 - [GitHub](https://github.com/warriorNVS)
