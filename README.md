@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages**: PHP, JavaScript, TypeScript, Python  
+- **Languages**: PHP, JavaScript, TypeScript, NodeJS,  
 - **Frameworks**: Laravel, React, NestJS  
 - **Databases**: MySQL (5 & 8)  
 - **Tools**: Git, 
